@@ -1,0 +1,9 @@
+
+.carousel-item img {
+    height: 820px; 
+    object-fit: cover; 
+}
+
+.carousel-item img {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
